@@ -1,5 +1,7 @@
 # cv-pasha
 
+<img src="foto.jpg" alt="Foto Pasha Diandra Sadri" width="150">
+
 Website CV pribadi Pasha Diandra Sadri, dibuat dengan HTML dan CSS.
 
 ## Tentang Saya
